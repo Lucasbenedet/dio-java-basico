@@ -11,5 +11,10 @@ public class TiposVariaveis {
         final double PI = 3.14; //Declarando uma constante
 
             System.out.println(PI);
+            System.out.println(n1);
+            System.out.println(nome);
+            System.out.println(n2);
+            System.out.println(verdade);
+            System.out.println(cep);
     }
 }
