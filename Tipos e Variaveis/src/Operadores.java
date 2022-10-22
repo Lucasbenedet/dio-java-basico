@@ -10,6 +10,8 @@ public class Operadores {
             b=6;
             String resultado = a==b ?"verdadeiro" : "falso";
         */
+        //Operadores Relacionais ==, !=, >,>=,<=,<
+        //Operadores logicos &&, ||
 
         
         String nomeCompleto = "LINGUAGEM" + " JAVA";
